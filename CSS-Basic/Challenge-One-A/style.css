@@ -1,0 +1,35 @@
+body {
+  background-color: burlywood;
+}
+hr {
+  border: none;
+  border-top: 5px dotted black;
+  margin: -17px;
+}
+#wrap {
+  background-color: rgba(255, 255, 255, 0.875);
+  border: 5px dotted black;
+  padding:  0px 16px;
+  margin: 25px 450px 50px 450px;
+}
+.content {
+  padding: none;
+  padding-top: 16px;
+}
+#title {
+  margin-top: 0px;
+  text-align: center;
+
+}
+
+.list {
+text-align:  center;
+list-style-type: none;
+}
+.list ::first-letter {
+  font-size: larger;
+  font-weight: bolder;
+}
+.copyright {
+  text-align: center;
+}

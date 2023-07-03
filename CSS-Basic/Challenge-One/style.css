@@ -1,0 +1,20 @@
+body {
+  background-image: url("landscape.jpg");
+  background-size: 1700px;
+  background-position: 1px;
+
+
+}
+#wrap {
+  margin: 25px 400px 25px 400px;
+  padding: 10px;
+  background-color: aqua;
+}
+.list {
+list-style-type: none;
+text-align: center;
+}
+.list ::first-letter {
+  font-size: larger;
+  font-weight: bolder;
+}
